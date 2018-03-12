@@ -26,7 +26,6 @@ function fibSeq(num){
 		}
 	}
 	console.log("sum is "+sum);
-
 }
 
 

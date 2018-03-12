@@ -16,12 +16,8 @@ function primeFactor(num) {
 		console.log(count);	
 		}else {
 			count++;
-		}
-
-		
+		}	
 	}
-
-
 }
 
 primeFactor(600851475143);
