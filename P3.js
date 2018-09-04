@@ -7,6 +7,8 @@ What is the largest prime factor of the number 600851475143 ?
 
 **/
 
+//2018/09/04 - new test pushed at time 10:38 AM 
+// author - maverick
 
 function primeFactor(num) {
 	var count = 2; 
